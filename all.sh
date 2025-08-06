@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Open all further output in one file
-exec > all_output.txt 2>&1
+# exec > all_output.txt 2>&1
 
 # Create a Directory
-mkdir kalyan
+# mkdir kalyan
 
 # change to the directory and create files
 cd kalyan
